@@ -1,0 +1,75 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	font-family: Avenir, sans-serif;	
+}
+
+.contenu{
+	height:700px;
+}
+
+.contenuPre{
+	height:700px;
+}
+
+.articleCV{
+	height:1370px;
+	margin-left: 300px;	
+}
+
+
+#accueil{
+	text-align: center;
+}
+.img{
+	width: 100%;	
+}
+
+.mimages{
+	height: 2000px;
+	text-align: center;
+}
+
+.lectures{
+	height:1000px;
+}
+
+.auteur{
+	float: left;
+	text-align: center;
+	padding: 20px 5px;
+}
+
+#accueil_contenu{
+	text-align: center;
+	padding: 0px 50px;
+}
+
+.livre{
+	float: left;
+	text-align: center;
+	padding: 20px 5px;
+}
+
+.contenu_img{
+	float: center;
+	text-align: center;
+	padding: 20px 5px;
+	width: 100%;
+}
+
+.navlinks_aside{
+    float: left;
+   	background-color: #999999;
+	width: 250px;
+	height:2000px;	
+	margin-right:50px;
+}
+
+.active{
+	background-color: green;
+}
+
+.unactive{
+	background-color: red;
+}
