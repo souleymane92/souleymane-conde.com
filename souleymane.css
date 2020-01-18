@@ -8,8 +8,11 @@
 	height:700px;
 }
 
-.contenuPre{
+.presentationBio{
 	height:700px;
+	margin-left: 200px;	
+	text-align: center;
+	margin-right: 0px;
 }
 
 .articleCV{
